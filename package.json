@@ -1,0 +1,21 @@
+{
+  "name": "restapi",
+  "version": "0.0.1",
+  "description": "A Simple restapi",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "express",
+    "restapi"
+  ],
+  "author": "Alex van Steenhoven",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
